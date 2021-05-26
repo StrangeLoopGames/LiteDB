@@ -11,7 +11,7 @@
     <Copyright>MIT</Copyright>
     <NeutralLanguage>en-US</NeutralLanguage>
     <Title>LiteDB</Title>
-    <PackageId>SLGForkLiteDB</PackageId>
+    <PackageId>StrangeLoopGames.LiteDB</PackageId>
     <PackageVersion>5.0.10</PackageVersion>
     <PackageTags>database nosql embedded</PackageTags>
     <PackageIcon>icon_64x64.png</PackageIcon>
@@ -30,7 +30,7 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Company>Strange Loop Games</Company>
-    <Version>5.0.11</Version>
+    <Version>5.0.10</Version>
   </PropertyGroup>
   
   <!--

@@ -2,9 +2,9 @@
 
   <PropertyGroup>
     <TargetFrameworks>net45;netstandard1.3;netstandard2.0</TargetFrameworks>
-    <AssemblyVersion>5.0.10</AssemblyVersion>
-    <FileVersion>5.0.10</FileVersion>
-    <VersionPrefix>5.0.10</VersionPrefix>
+    <AssemblyVersion>5.0.10.2</AssemblyVersion>
+    <FileVersion>5.0.10.2</FileVersion>
+    <VersionPrefix>5.0.10.2</VersionPrefix>
     <Authors>Maurício David</Authors>
     <Product>LiteDB</Product>
     <Description>Fork of LiteDB - A lightweight embedded .NET NoSQL document store in a single datafile</Description>
@@ -12,7 +12,7 @@
     <NeutralLanguage>en-US</NeutralLanguage>
     <Title>LiteDB</Title>
     <PackageId>StrangeLoopGames.LiteDB</PackageId>
-    <PackageVersion>5.0.10</PackageVersion>
+    <PackageVersion>5.0.10.2</PackageVersion>
     <PackageTags>database nosql embedded</PackageTags>
     <PackageIcon>icon_64x64.png</PackageIcon>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
@@ -30,7 +30,7 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Company>Strange Loop Games</Company>
-    <Version>5.0.10</Version>
+    <Version>5.0.10.2</Version>
   </PropertyGroup>
   
   <!--
